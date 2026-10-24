@@ -1,7 +1,7 @@
 # ChatCloser 2.0
 
 <p align="center">
-  <img src="website/assets/logo.png" alt="ChatCloser 2.0 — conversations to customers — Thirteen" width="520" />
+  <img src="assets/chatcloser-logo.png" alt="ChatCloser 2.0 — Conversations to Customers — Thirteen" width="720" />
 </p>
 
 An AI-run business, in one application: a WhatsApp assistant that answers
